@@ -47,6 +47,15 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 -   [ X ] Rota deleta um usuário;
 -   [ X ] Função para buscar usuário por ID;
 
+# Instrução clonar o projeto:
+```bash
+    # Clonar o repositório
+    $ git https://github.com/SilvaneiMartins/backend-python
+
+    # Acessar a pasta do projeto
+    $ cd backend-python
+```
+
 # Instrução criar ambiente virtual e ativar:
 ```bash
     # Criação do ambiente virtual
@@ -96,6 +105,9 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 -   [Python](https://www.python.org/)
 -   [FastAPI](https://fastapi.tiangolo.com/pt/)
 -   [Uvicorn](https://www.uvicorn.org/)
+
+# License
+Este projeto está sob a licença CC0-1.0. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/backend-python/blob/master/LICENSE) para maiores informações.
 
 # Developer
 <a href="https://github.com/SilvaneiMartins">
