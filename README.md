@@ -10,19 +10,19 @@
 	🚧  APLICAÇÃO BACKEND PYTHON...  🚧
 </h3>
 
-## Informação maquina windows e linux:
+# Informação maquina windows e linux:
 O tutorial foi criado para ajudar você na sua execução do projeto. Além disso, será considerado que você já possui o ambiente python configurado de desenvolvimento em sua máquina. 
 
-## Instrução para maquina mac:
+# Instrução para maquina mac:
 Caso você possui um macbook, é necessário ter todas as permissões, certificados para o desenvolvimento e execução da aplicação no xcode.
 
-### Observação muito importante:
+# Observação muito importante:
 O projeto em fase de desenvolvimento, não é recomendado para uso em produção ou que realize copia de trecho de código para usabilidade, por que muita coisa vai mudar ainda.
 
 # Algumas image do projeto:
-<h5 align="left">
+<h4 align="left">
 	Algumas imagens do projeto em desenvolvimento.
-</h5>
+</h4>
 <h1 align="center">
  	<a href="https://imgur.com/ReEqzw8"><img src="https://i.imgur.com/ReEqzw8.png" title="source: imgur.com" /></a>
 	<br />
@@ -30,9 +30,9 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 	<br />
 </h1>
 
-<h5 align="left">
+<h4 align="left">
 	Image da documentação em desenvolvimento.
-</h5>
+</h4>
 <h1 align="center">
  	<a href="https://imgur.com/EFS0vTk"><img src="https://i.imgur.com/EFS0vTk.png" title="source: imgur.com" /></a>
 	<br />
