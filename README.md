@@ -3,7 +3,7 @@
 
 ![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)
 <br />
-![BACKEND_PYTHON](https://imgur.com/u4ttTVE)
+![BACKEND_PYTHON](https://i.imgur.com/u4ttTVE.jpg)
 
 
 <h3 align="center">
