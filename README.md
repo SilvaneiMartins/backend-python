@@ -1,6 +1,6 @@
 # BACKEND PYTHON
 
-<div align="center">
+<div align="center" width="100%">
 	![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)<br />
 	![BACKEND_PYTHON](https://i.imgur.com/zv0jBU2.jpg)
 </div>
