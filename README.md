@@ -47,7 +47,7 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 -   [ X ] Rota deleta um usuário;
 -   [ X ] Função para buscar usuário por ID;
 
-# Instrução clonar o projeto:
+# Instrução para clonar o projeto:
 ```bash
     # Clonar o repositório
     $ git https://github.com/SilvaneiMartins/backend-python
