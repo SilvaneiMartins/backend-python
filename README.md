@@ -1,6 +1,11 @@
 # BACKEND PYTHON
 
 ![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)
+![BACKEND_PYTHON](<a href="https://imgur.com/zv0jBU2"><img src="https://i.imgur.com/zv0jBU2.jpg" title="source: imgur.com" /></a>)
+
+<h3 align="center">
+	🚧  APLICAÇÃO BACKEND PYTHON...  🚧
+</h3>
 
 ## Informação maquina windows e linux:
 O tutorial foi criado para ajudar você na sua execução do projeto. Além disso, será considerado que você já possui o ambiente python configurado de desenvolvimento em sua máquina. 
@@ -12,10 +17,6 @@ Caso você possui um macbook, é necessário ter todas as permissões, certifica
 O projeto em fase de desenvolvimento, não é recomendado para uso em produção ou que realize copia de trecho de código para usabilidade, por que muita coisa vai mudar ainda.
 
 # Algumas image do projeto:
-<h3 align="center">
-	🚧  APLICAÇÃO BACKEND PYTHON...  🚧
-</h3>
-
 <h5 align="left">
 	Algumas imagens do projeto em desenvolvimento.
 </h5>
