@@ -19,7 +19,6 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 <h5 align="left">
 	Algumas imagens do projeto em desenvolvimento.
 </h5>
-<br />
 <h1 align="center">
  	<a href="https://imgur.com/ReEqzw8"><img src="https://i.imgur.com/ReEqzw8.png" title="source: imgur.com" /></a>
 	<br />
@@ -30,7 +29,6 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 <h5 align="left">
 	Image da documentação em desenvolvimento.
 </h5>
-<br />
 <h1 align="center">
  	<a href="https://imgur.com/EFS0vTk"><img src="https://i.imgur.com/EFS0vTk.png" title="source: imgur.com" /></a>
 	<br />
