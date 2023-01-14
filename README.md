@@ -106,7 +106,6 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
         <b>Silvanei de Almeida Martins</b>
     </sub>
 </a>
-     <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
     🚀
  </a>
 Feito com ❤️ por Silvanei Martins
