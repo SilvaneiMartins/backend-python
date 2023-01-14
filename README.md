@@ -1,7 +1,7 @@
 # BACKEND PYTHON
 
-![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)
-![BACKEND_PYTHON](<a href="https://imgur.com/zv0jBU2"><img src="https://i.imgur.com/zv0jBU2.jpg" title="source: imgur.com" /></a>)
+![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)<br />
+![BACKEND_PYTHON](https://i.imgur.com/zv0jBU2.jpg)
 
 <h3 align="center">
 	🚧  APLICAÇÃO BACKEND PYTHON...  🚧
