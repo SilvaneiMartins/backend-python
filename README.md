@@ -1,9 +1,10 @@
 # BACKEND PYTHON
 
-<div align="center" width="100%">
-	![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)<br />
-	![BACKEND_PYTHON](https://i.imgur.com/zv0jBU2.jpg)
-</div>
+
+![BACKEND_PYTHON](https://img.shields.io/badge/BACKEND-PYTHON-blue.svg)
+<br />
+![BACKEND_PYTHON](https://imgur.com/u4ttTVE)
+
 
 <h3 align="center">
 	🚧  APLICAÇÃO BACKEND PYTHON...  🚧
