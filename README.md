@@ -105,6 +105,7 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
     <sub>
         <b>Silvanei de Almeida Martins</b>
     </sub>
+    <br />
 </a>
     🚀
  </a>
