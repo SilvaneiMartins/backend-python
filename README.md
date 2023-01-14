@@ -10,11 +10,8 @@
 	🚧  APLICAÇÃO BACKEND PYTHON...  🚧
 </h3>
 
-# Informação maquina windows e linux:
-O tutorial foi criado para ajudar você na sua execução do projeto. Além disso, será considerado que você já possui o ambiente python configurado de desenvolvimento em sua máquina. 
-
-# Instrução para maquina mac:
-Caso você possui um macbook, é necessário ter todas as permissões, certificados para o desenvolvimento e execução da aplicação no xcode.
+# Informação maquina windows:
+O tutorial foi criado para ajudar você na sua execução do projeto. Além disso, será considerado que você já possui o ambiente python configurado de desenvolvimento em sua máquina.
 
 # Observação muito importante:
 O projeto em fase de desenvolvimento, não é recomendado para uso em produção ou que realize copia de trecho de código para usabilidade, por que muita coisa vai mudar ainda.
