@@ -24,6 +24,8 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 	<br />
 	<a href="https://imgur.com/1hUm3cz"><img src="https://i.imgur.com/1hUm3cz.png" title="source: imgur.com" /></a>
 	<br />
+    <a href="https://imgur.com/GEclW9u"><img src="https://i.imgur.com/GEclW9u.png" title="source: imgur.com" /></a>
+	<br />
 </h1>
 
 <h4 align="left">
@@ -31,6 +33,8 @@ O projeto em fase de desenvolvimento, não é recomendado para uso em produção
 </h4>
 <h1 align="center">
  	<a href="https://imgur.com/EFS0vTk"><img src="https://i.imgur.com/EFS0vTk.png" title="source: imgur.com" /></a>
+	<br />
+    <a href="https://imgur.com/dACueTQ"><img src="https://i.imgur.com/dACueTQ.png" title="source: imgur.com" /></a>
 	<br />
 </h1>
 
