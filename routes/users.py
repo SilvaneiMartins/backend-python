@@ -1,7 +1,7 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 
-app = FastAPI()
+router = APIRouter()
 
 class User(BaseModel):
     id: int
@@ -18,25 +18,25 @@ lista_usuario = [
 
 
 # Lista de todos usuários
-@app.get('/users/')
+@router.get('/users/')
 async def users():
     return lista_usuario
 
 
 # Path -> Lista de usuários por ID
-@app.get('/user/{id}')
+@router.get('/user/{id}')
 async def user(id: int):
     return search_user(id)
 
 
 # Query -> Lista de usuários por ID
-@app.get('/user/')
+@router.get('/user/')
 async def user(id: int):
     return search_user(id)
 
 
 # Criar um usuário
-@app.post('/user/', status_code=201)
+@router.post('/user/', response_model=User ,status_code=201)
 async def user(user: User):
     if type(search_user(user.id)) == User:
         raise HTTPException(status_code=404, detail='Usuário já cadastrado!')
@@ -46,7 +46,7 @@ async def user(user: User):
 
 
 # Atualização de usuário
-@app.put('/user/')
+@router.put('/user/')
 async def user(user: User):
     found = False
 
@@ -62,7 +62,7 @@ async def user(user: User):
 
 
 # Deletar usuário
-@app.delete('/user/{id}')
+@router.delete('/user/{id}')
 async def user(id: int):
     found = False
 
