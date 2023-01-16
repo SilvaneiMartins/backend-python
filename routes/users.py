@@ -1,7 +1,11 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 
-router = APIRouter()
+router = APIRouter(
+        prefix='/users',
+        tags=["users"], 
+        responses={404: {"Message": "Usuário não encontrado!"}}
+    )
 
 class User(BaseModel):
     id: int
@@ -18,27 +22,27 @@ lista_usuario = [
 
 
 # Lista de todos usuários
-@router.get('/users/')
+@router.get('/')
 async def users():
     return lista_usuario
 
 
 # Path -> Lista de usuários por ID
-@router.get('/user/{id}')
-async def user(id: int):
-    return search_user(id)
+@router.get('/{id}')
+async def users(id: int):
+    return search_users(id)
 
 
 # Query -> Lista de usuários por ID
-@router.get('/user/')
-async def user(id: int):
-    return search_user(id)
+@router.get('/')
+async def users(id: int):
+    return search_users(id)
 
 
 # Criar um usuário
-@router.post('/user/', response_model=User ,status_code=201)
-async def user(user: User):
-    if type(search_user(user.id)) == User:
+@router.post('/', response_model=User ,status_code=201)
+async def users(user: User):
+    if type(search_users(user.id)) == User:
         raise HTTPException(status_code=404, detail='Usuário já cadastrado!')
 
     lista_usuario.append(user)
@@ -46,8 +50,8 @@ async def user(user: User):
 
 
 # Atualização de usuário
-@router.put('/user/')
-async def user(user: User):
+@router.put('/')
+async def users(user: User):
     found = False
 
     for index, saved_user in enumerate(lista_usuario):
@@ -62,8 +66,8 @@ async def user(user: User):
 
 
 # Deletar usuário
-@router.delete('/user/{id}')
-async def user(id: int):
+@router.delete('/{id}')
+async def users(id: int):
     found = False
 
     for index, saved_user in enumerate(lista_usuario):
@@ -78,7 +82,7 @@ async def user(id: int):
 
 
 # Função para buscar usuário por ID
-def search_user(id: int):
+def search_users(id: int):
     users = filter(lambda user: user.id == id, lista_usuario)
 
     try:
